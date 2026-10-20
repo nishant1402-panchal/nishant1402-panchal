@@ -123,10 +123,6 @@ Project repository and live demo links will be added after publishing.
 
 I'm available for freelance website development projects and collaborations.
 
-- 💼 LinkedIn: Add your LinkedIn profile link
-- 🌐 Portfolio: Add your portfolio website link
-- 💻 GitHub: Add your GitHub profile link
-
 ---
 
 ⭐ Let's Build Something Amazing Together!
