@@ -121,9 +121,19 @@ Project repository and live demo links will be added after publishing.
 
 📊 GitHub Statistics
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=nishant1402-panchal&show_icons=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nishant1402-panchal&show_icons=true&theme=tokyonight"
+    alt="GitHub Statistics"
+    height="180"
+  />
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=nishant1402-panchal&layout=compact)
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant1402-panchal&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
 
 ---
 
